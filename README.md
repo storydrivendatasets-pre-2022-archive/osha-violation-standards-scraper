@@ -1,7 +1,13 @@
-# The OSHA Violation Standard scraper
+# The OSHA Violation Standard scraper (NOT DONE 2020-08-17)
 
 
 > *tl;dr, Download the OSHA violation standards (29 CFR) code manual as CSV:* 
+
+
+
+# TODOS
+
+In [scripts/collect_pages](scripts/collect_pages), write `collect_number_parts()`
 
 
 
